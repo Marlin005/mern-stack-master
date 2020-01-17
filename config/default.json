@@ -1,0 +1,7 @@
+{
+  "port": "9000",
+  "mongoUri": "mongodb+srv://marlin:marlin777@cluster0-dqdxl.azure.mongodb.net/mern-links?retryWrites=true&w=majority",
+  "jwtSecret": "mern-links",
+  "baseUrl": "http://localhost:9000"
+}
+
